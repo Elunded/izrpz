@@ -1,0 +1,4 @@
+logger:
+  level: "info"
+brick:
+  area: 0.032

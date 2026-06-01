@@ -1,0 +1,8 @@
+linters:
+  disable-all: true
+  enable:
+    - errcheck
+    - gosimple
+    - unused
+    - revive
+    - staticcheck
